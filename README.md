@@ -19,8 +19,8 @@ The dataset consisted of 5000 orders made by 301 users, the information is taken
 
 **Qustions and answers:**
 
-How many orders were shipped by Speedy Express in total? 54
-What is the last name of the employee with the most orders? Peacock
-What product was ordered the most by customers in Germany? Gorgonzola Telino
+How many orders were shipped by Speedy Express in total? 54 <br>
+What is the last name of the employee with the most orders? Peacock <br>
+What product was ordered the most by customers in Germany? Gorgonzola Telino <br>
 
 Performed by Andrew L.
