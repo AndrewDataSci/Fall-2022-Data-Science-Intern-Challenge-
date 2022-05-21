@@ -15,7 +15,7 @@ The dataset consisted of 5000 orders made by 301 users, the information is taken
 - What is its value? the value of the median is $284.
 
 
-**The second challenge Q2 was addressed using SQL on an online editor. See [SQL Challenge PDF] (SQL Challenge.pdf) for questions, queries, and answers.**
+**The second challenge Q2 was addressed using SQL on an online editor. See [SQL Challenge PDF](SQL Challenge.pdf) for questions, queries, and answers.**
 
 **Qustions and answers:**
 
