@@ -1,6 +1,6 @@
 # Fall 2022 Data Science Intern Challenge 
  
- **The first challenge Q1 was addressed using Python and JupterLab. See "Challenge" Notebook for full report.**
+ **The first challenge Q1 was addressed using Python and JupterLab. See [Challenge] Notebook for full report.**
 
 **Conclusion and Business Recommendations:**
 
